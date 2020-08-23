@@ -1,0 +1,11 @@
+insert into test.author(author_id, first_name, last_name, country) values(1, 'John', 'Steinbeck', 'United States');
+insert into test.author(author_id, first_name, last_name, country) values(2, 'George', 'Orwell', 'United States');
+insert into test.author(author_id, first_name, last_name, country) values(3, 'William', 'Shakespeare', 'England');
+insert into test.author(author_id, first_name, last_name, country) values(4, 'William', 'Golding', 'England');
+insert into test.author(author_id, first_name, last_name, country) values(5, 'Ernest', 'Hemmingway', 'United States');
+insert into test.author(author_id, first_name, last_name, country) values(6, 'Charles', 'Dickens', 'England');
+insert into test.author(author_id, first_name, last_name, country) values(7, 'Alexandre', 'Dumas', 'France');
+insert into test.author(author_id, first_name, last_name, country) values(8, 'Nathaniel', 'Hawthorne', 'United States');
+insert into test.author(author_id, first_name, last_name, country) values(9, 'Erich', 'Gamma', 'United States');
+insert into test.author(author_id, first_name, last_name, country) values(10, 'Leo', 'Tolstoy', 'Russia');
+insert into test.author(author_id, first_name, last_name, country) values(11, 'Ken', 'Kesey', 'Russia');
